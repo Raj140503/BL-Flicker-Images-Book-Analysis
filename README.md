@@ -31,4 +31,7 @@
 **[4. Universal Towns](https://github.com/Raj140503/ML-Case-Studies/tree/main/University%20Towns)**
 1. Convert String DataFrame into pandas
 2. Get new DataFrame using applymap()
-3. Find the Value Counts for each column 
+3. Find the Value Counts for each column
+
+**[5.Mall Customer Analysis](https://github.com/Raj140503/ML-Case-Studies/tree/main/Mall%20Customer%20Analysis)**
+1. 
